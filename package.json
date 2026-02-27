@@ -40,5 +40,13 @@
         "dependencies"
     ],
     "author": "",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sammy440/Moduly-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sammy440/Moduly-cli/issues"
+    },
+    "homepage": "https://github.com/sammy440/Moduly-cli#readme"
 }
